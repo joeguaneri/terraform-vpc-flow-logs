@@ -1,0 +1,1 @@
+This module create a VPC Flow Log using S3 as the backend and stores the logs using parquet format.
